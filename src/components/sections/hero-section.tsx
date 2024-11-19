@@ -1,6 +1,7 @@
 "use client";
 import { Button } from "@nextui-org/react";
 import { motion } from "framer-motion";
+import React, { useRef } from "react";
 import Image from "next/image";
 import { ContainerScroll } from "../ui/container-scroll-animation";
 import { Spotlight } from "../ui/spotlight";

@@ -4,10 +4,9 @@ import { motion } from "framer-motion";
 
 const team = [
   {
-    name: "Ruben Yablai",
-    role: "Développeur Front-end",
-    image:
-      "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?q=80&w=1000",
+    name: "Yablai Yablai Ruben Virgil",
+    role: "Développeur Front-end / Administrateur de serveur web",
+    image: "/images/ruben.jpg",
     skills: [
       "HTML",
       "CSS",
@@ -15,15 +14,16 @@ const team = [
       "Tailwind",
       "ReactJS",
       "NextJS",
+      "Gsap",
+      "Three JS",
       "JSX",
       "TypeScript",
     ],
   },
   {
     name: "Marcel Djedje-li",
-    role: "Développeur Full Stack",
-    image:
-      "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=1000",
+    role: "Développeur Full Stack / Administrateur de serveur web",
+    image: "/images/marcel.jpeg",
     skills: [
       "HTML",
       "CSS",

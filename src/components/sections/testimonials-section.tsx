@@ -6,23 +6,16 @@ const testimonials = [
   {
     quote:
       "Une équipe exceptionnelle qui a parfaitement compris nos besoins et délivré au-delà de nos attentes.",
-    name: "Marie Laurent",
-    designation: "CEO, TechStart",
-    src: "/images/testimonials/1.jpg",
+    name: "Abel Josias BEDE",
+    designation: "CEO, African Digit Consulting",
+    src: "/images/bede_josias.jpeg",
   },
   {
     quote:
       "Le professionnalisme et la qualité du travail fourni ont grandement contribué au succès de notre projet.",
-    name: "Thomas Dubois",
-    designation: "CTO, InnovCorp",
-    src: "/images/testimonials/2.jpg",
-  },
-  {
-    quote:
-      "Un partenaire de confiance qui a su transformer notre vision en réalité avec expertise et créativité.",
-    name: "Sophie Martin",
-    designation: "Product Manager, DataFlow",
-    src: "/images/testimonials/3.jpg",
+    name: "Kouassi Roland",
+    designation: "CTO, DATALYS Consulting",
+    src: "/images/roland.jpeg",
   },
 ];
 
