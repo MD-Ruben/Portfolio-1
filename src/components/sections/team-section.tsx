@@ -5,7 +5,7 @@ import { motion } from "framer-motion";
 const team = [
   {
     name: "Yablai Yablai Ruben Virgil",
-    role: "Développeur Front-end / Administrateur de serveur web",
+    role: "Développeur Front-end",
     image: "/images/ruben.jpg",
     skills: [
       "HTML",
@@ -16,13 +16,14 @@ const team = [
       "NextJS",
       "Gsap",
       "Three JS",
+      "Angular JS",
       "JSX",
       "TypeScript",
     ],
   },
   {
     name: "Marcel Djedje-li",
-    role: "Développeur Full Stack / Administrateur de serveur web",
+    role: "Développeur Full Stack",
     image: "/images/marcel.jpeg",
     skills: [
       "HTML",

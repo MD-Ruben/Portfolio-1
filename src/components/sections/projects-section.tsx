@@ -8,16 +8,16 @@ const projects = [
     description:
       "Une plateforme de commerce électronique complète avec panier et paiement",
     image:
-      "https://images.unsplash.com/photo-1557821552-17105176677c?q=80&w=1000",
+      "/images/ecommerce.png",
     tech: ["Next.js", "Node.js", "MongoDB"],
     href: "#",
   },
   {
-    title: "Application Mobile",
-    description: "Application mobile cross-platform pour la gestion de tâches",
+    title: "Site internet",
+    description: "Un site internet vitrine",
     image:
-      "https://images.unsplash.com/photo-1551650975-87deedd944c3?q=80&w=1000",
-    tech: ["React Native", "Firebase"],
+      "/images/siteInternet.jpeg",
+    tech: ["Next.js", "TailwindCSS"],
     href: "#",
   },
   {
